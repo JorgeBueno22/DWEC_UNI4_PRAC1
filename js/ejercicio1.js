@@ -3,6 +3,9 @@ window.addEventListener('load', inicioPagina);
 var personajes = ['foto1', 'foto2', 'foto3','foto4', 'foto5', 'foto6', 'foto7'];
 var indice = 0;
 
+//No he conseguido que me fuese el ejercicio con la clase Galeria
+//Pero de esta forma funciona correctamente sin el uso de la clase Galeria
+
 function inicioPagina(){
 
     //Eventos 
